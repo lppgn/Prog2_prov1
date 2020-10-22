@@ -10,7 +10,9 @@ namespace Prog2pvor1
     {
         static void Main(string[] args)
         {
-            
+            //skapar en Antik
+            Antique shopItem = new Antique();
+            Console.ReadLine();
         }
     }
 }
